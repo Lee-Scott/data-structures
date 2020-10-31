@@ -1,3 +1,5 @@
+package array;
+
 public class IntArray implements Iterable<Integer> {
 
     private static final int DEFAULT_CAP = 1 << 3;

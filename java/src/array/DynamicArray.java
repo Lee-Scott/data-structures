@@ -1,3 +1,4 @@
+package array;
 
 @SuppressWarnings("unchecked")
 public class DynamicArray<T> implements Iterable<T> {
